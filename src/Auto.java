@@ -28,8 +28,6 @@ public class Auto {
     public void setCilindrata() {
         this.cilindrata = cilindrata;
     }
-    public void setTarga() {
-        this.targa = targa;
-    }
+
 
 }
